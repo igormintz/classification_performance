@@ -1,6 +1,8 @@
 # automatic performance for binaty classification results
 ## how to use?
-in the terminal run:
+the scripts runs [here](https://huggingface.co/spaces/igormintz/classification_report)
+
+to run localy, in the terminal run:
 ```streamlit run app.py```
 
 
